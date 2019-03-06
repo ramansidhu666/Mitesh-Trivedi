@@ -490,7 +490,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.PropertyPhoto = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.PropertyPhoto = "http://miteshtrivedi.com//PostCardImages/open_house_img.jpg";
             }
 
             Model.AdminPhoto = "..http://miteshtrivedi.com//images/client_img.jpg";
@@ -520,7 +520,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.First_feature_Image = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.First_feature_Image = "http://miteshtrivedi.com//PostCardImages/featurd_img1.jpg";
             }
 
             //Second Image
@@ -545,7 +545,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.secd_feature_Image = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.secd_feature_Image = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -571,7 +571,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.thrld_feature_Image = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.thrld_feature_Image = "http://miteshtrivedi.com//PostCardImages/featrd_img2.jpg";
             }
 
 
@@ -598,7 +598,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.forth_feature_Image = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.forth_feature_Image = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
             //Fifth Image
@@ -623,7 +623,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.fifth_feature_Image = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.fifth_feature_Image = "http://miteshtrivedi.com//PostCardImages/featrd_img2.jpg";
             }
 
             Model.AdminPhoto = "..http://miteshtrivedi.com//images/client_img.jpg";
@@ -653,7 +653,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_1stimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_1stimg = "http://miteshtrivedi.com//PostCardImages/featurd_img1.png";
             }
 
             //Second Image
@@ -678,7 +678,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_2ndimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_2ndimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -704,7 +704,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_3rdimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_3rdimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -731,7 +731,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_4thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_4thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
             //Fifth Image
@@ -756,7 +756,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_5thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_5thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -782,7 +782,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_6thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_6thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
             //Fifth Image
@@ -807,7 +807,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.ftr_2nd_7thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.ftr_2nd_7thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
             Model.AdminPhoto = "http://miteshtrivedi.com//images/ajay_shah.jpg";
             return Model;
@@ -836,7 +836,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_1stimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_1stimg = "http://miteshtrivedi.com//PostCardImages/featurd_img1.png";
             }
 
             //Second Image
@@ -861,7 +861,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_2ndimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_2ndimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -887,7 +887,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_3rdimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_3rdimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -914,7 +914,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_4thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_4thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
             //Fifth Image
@@ -939,7 +939,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_5thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_5thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
 
@@ -965,7 +965,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_6thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_6thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
 
             //Fifth Image
@@ -990,7 +990,7 @@ namespace Property.Admin
             }
             else
             {
-                Model.jsthold_7thimg = "http://miteshtrivedi.com//images/open_house_img.jpg";
+                Model.jsthold_7thimg = "http://miteshtrivedi.com//PostCardImages/featrd_img1.jpg";
             }
             Model.AdminPhoto = "http://miteshtrivedi.com//images/ajay_shah.jpg";
             return Model;

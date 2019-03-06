@@ -1147,7 +1147,7 @@ function PostCard_Data() {
                         <div style="float: left; width: 100%; background-color: #FFF; padding: 12px 0;">
                             <div style="float: left; width: 100%; background-color: #094fa5; text-align: center; margin-bottom: 0px;">
                                 <h2 style="float: left; width: 100%; color: white; font-size: 18px; font-family: 'Times New Roman', Times, serif; font-weight: bold; margin: 8px 0 4px 0; font-style: italic;">Welcome to</h2>
-                                <asp:TextBox ID="ftr_2nd_1stcntnt" MaxLength='30' onkeyDown="checkTextAreaMaxLength(this,event,'30');" Style="float: left; background: #094fa5 none repeat scroll 0 0; border: none; width: 100%; color: white; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; text-align: center; margin: 6px 0;" runat="server" PlaceHolder="text here..." class="span8">146 Barleyfield Road Brampton </asp:TextBox>
+                                <asp:TextBox ID="ftr_2nd_1stcntnt" MaxLength='30' onkeyDown="checkTextAreaMaxLength(this,event,'30');" Style="float: left; background: #094fa5 none repeat scroll 0 0; text-align:center; border: none; width: 100%; color: white; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; text-align: center; margin: 6px 0;" runat="server" PlaceHolder="text here..." class="span8">146 Barleyfield Road Brampton </asp:TextBox>
                             </div>
                             <div style="float: left; width: 100%;" id="2nd_ftr_fstimg" data-id="2nd_ftr_fstimg">
                                 <img id="ftr_2nd_1stimge" src="../PostCardImages/featurd_img1.png" alt="" title=""style="width:100%; max-height:350px; />
@@ -1194,7 +1194,7 @@ function PostCard_Data() {
                         <div style="float: left; width: 100%; background-color: #FFF; padding: 12px;">
                             <div style="float: left; width: 100%; background-color: #094fa5;">
                                 <div style="float: left; width: 100%; text-align: center; margin-top: 12px;">
-                                    <asp:TextBox ID="ftr_2nd_4thcntnt" MaxLength='30' onkeyDown="checkTextAreaMaxLength(this,event,'30');" Style="float: left; width: 100%; color: white; font-size: 28px; font-weight: bold; background: #094fa5 none repeat scroll 0 0; border: none; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;" runat="server" PlaceHolder="text here..." class="span8">146 Barleyfield Road Brampton</asp:TextBox>
+                                    <asp:TextBox ID="ftr_2nd_4thcntnt" MaxLength='30' onkeyDown="checkTextAreaMaxLength(this,event,'30');" Style="float: left; width: 100%; color: white; font-size: 28px; font-weight: bold; background: #094fa5 none repeat scroll 0 0; text-align:center; border: none; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;" runat="server" PlaceHolder="text here..." class="span8">146 Barleyfield Road Brampton</asp:TextBox>
                                     <img src="../PostCardImages/featurd_border2.png" alt="" title="" style="margin: 8px 0; width: 55%;" />
                                 </div>
                                 <div style="float: left; width: 100%; margin: 12px 0;">
